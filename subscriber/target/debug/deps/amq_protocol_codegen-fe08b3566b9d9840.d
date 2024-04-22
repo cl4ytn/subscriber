@@ -1,0 +1,13 @@
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/libamq_protocol_codegen-fe08b3566b9d9840.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/internal.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/named.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/specs.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/templating.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/util.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/amq_protocol_codegen-fe08b3566b9d9840.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/internal.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/named.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/specs.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/templating.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/util.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/internal.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/named.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/specs.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/templating.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/src/util.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0/specs/amqp-rabbitmq-0.9.1.json:
+
+# env-dep:CARGO_MANIFEST_DIR=/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/amq-protocol-codegen-1.4.0

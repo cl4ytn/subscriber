@@ -1,0 +1,12 @@
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/libsnafu-fcc75c5667b24211.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/backtrace_inert.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/once_bool.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/error_chain.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/Snafu.md /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.md /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/../README.md
+
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/snafu-fcc75c5667b24211.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/backtrace_inert.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/once_bool.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/error_chain.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/Snafu.md /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.md /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/../README.md
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/backtrace_inert.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/once_bool.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/error_chain.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/Snafu.md:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/report.md:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/snafu-0.7.5/src/../README.md:

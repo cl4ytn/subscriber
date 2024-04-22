@@ -1,0 +1,11 @@
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/libborsh-38d1d1d258e17afa.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/borsh-38d1d1d258e17afa.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs:

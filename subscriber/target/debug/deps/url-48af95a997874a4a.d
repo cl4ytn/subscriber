@@ -1,0 +1,13 @@
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/liburl-48af95a997874a4a.rmeta: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/Users/clayton/Desktop/UI/AP/mod8/subscriber/subscriber/target/debug/deps/url-48af95a997874a4a.d: /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs /Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs
+
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/lib.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/encoding.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/host.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/origin.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/path_segments.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/parser.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/slicing.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/form_urlencoded.rs:
+/Users/clayton/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-1.7.2/src/quirks.rs:
